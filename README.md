@@ -31,14 +31,14 @@ pro.html
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ShopEase - Your Online Store</title>
+  <title>trend Store - Your Online Store</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
   <header>
     <nav class="navbar">
-      <div class="logo">ShopEase</div>
+      <div class="logo">Trend store</div>
       <ul class="nav-links">
         <li><a href="#">Home</a></li>
         <li><a href="shop.html">Shop</a></li>
@@ -50,7 +50,7 @@ pro.html
   </header>
 
   <section class="hero">
-    <h1>Welcome to ShopEase</h1>
+    <h1>Welcome to Trend Store</h1>
     <p>Discover the latest trends and deals!</p>
     <a href="shop.html" class="btn">Shop Now</a>
   </section>
@@ -80,7 +80,7 @@ pro.html
   </section>
 
   <footer>
-    <p>&copy; 2025 ShopEase. All rights reserved.</p>
+    <p>&copy; Trend Store 2025 . All rights reserved.</p>
   </footer>
 
 </body>
@@ -246,9 +246,10 @@ footer {
 
 ```
 # OUTPUT:
-![alt text](<Screenshot (80).png>)
+![alt text](<Screenshot (97).png>)
 ![alt text](<Screenshot (81).png>)
 ![alt text](<Screenshot (82).png>)
 ![alt text](<Screenshot (83).png>)
+
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.

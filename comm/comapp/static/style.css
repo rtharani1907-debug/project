@@ -1,4 +1,4 @@
-/* Reset & Base */
+
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
   color: #333;
 }
 
-/* Navbar */
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -29,7 +29,6 @@ body {
   text-decoration: none;
 }
 
-/* Hero */
 .hero {
   text-align: center;
   padding: 4rem 2rem;
@@ -76,4 +75,21 @@ footer {
   padding: 1rem;
   background-color: #222;
   color: white;
+}
+.pro {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* or center */
+  gap: 20px;
+  padding: 20px;
+}
+
+.col {
+  flex: 0 0 23%; /* ~25% minus gap */
+  box-sizing: border-box;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
